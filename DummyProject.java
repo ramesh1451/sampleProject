@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class DummyProject {
 	
 	// using recursion for printing all permutation 
-	
+	// NEW CODE
 	static void printAllPermutn(String str, String ans)
 	{
 		 
